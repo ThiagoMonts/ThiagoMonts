@@ -36,6 +36,6 @@ const monts = {
 </details>
 
 [![Twitter: thiagomonts](https://img.shields.io/twitter/follow/thiagomonts?style=social)](https://twitter.com/thiagomonts)
-[![Linkedin: Thiago Honorato](https://img.shields.io/badge/-thiagomonts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/honoratothiago/)](https://www.linkedin.com/in/honoratothiago/)
+[![Linkedin: Thiago Honorato](https://img.shields.io/badge/-ThiagoHonorato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/honoratothiago/)](https://www.linkedin.com/in/honoratothiago/)
 [![GitHub: thiagomonts](https://img.shields.io/github/followers/thiagomonts?label=follow&style=social)](https://github.com/thiagomonts)
 </div>
