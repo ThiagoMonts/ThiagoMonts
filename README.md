@@ -19,7 +19,7 @@ const monts = {
         interesses: ['Games', 'Futebol', 'Aprendizado'],
         motivação: ['Quero aprender a desenvolver programas e jogos.'],
     },
-    técnico: {
+    profissional: {
         tecnologias: {
                 CSS,
                 HTML,
