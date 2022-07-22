@@ -1,4 +1,4 @@
-## Olá! Seja bem-vindo!
+# Olá! Meu nome é Thiago, seja bem-vindo!
 
 <div align="center">
   
@@ -8,7 +8,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas.
 
 <details>
-  <summary> Sobre mim</summary>
+  <summary>Sobre mim</summary>
 <div align="left">
  
 ``` js
@@ -21,21 +21,35 @@ const monts = {
     },
     técnico: {
         tecnologias: {
-            frontEnd: {
-                Javascript,
-                HTML,
                 CSS,
-            },
-            backEnd: {
-               Python
-            },
+                HTML,
+                JavaScript,
+                Python,
+                TypeScript
     }
 }
 ```
   </div>
 </details>
 
-[![Twitter: thiagomonts](https://img.shields.io/twitter/follow/thiagomonts?style=social)](https://twitter.com/thiagomonts)
-[![Linkedin: Thiago Honorato](https://img.shields.io/badge/-ThiagoHonorato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/honoratothiago/)](https://www.linkedin.com/in/honoratothiago/)
-[![GitHub: thiagomonts](https://img.shields.io/github/followers/thiagomonts?label=follow&style=social)](https://github.com/thiagomonts)
+<div align="center">
+  <a href="https://github.com/thiagomonts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomonts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomonts&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/honoratothiago" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/thiagomonts" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+</div>
+            
+          
