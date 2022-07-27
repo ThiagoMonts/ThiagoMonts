@@ -30,14 +30,6 @@ const monts = {
               }
 ```
 
-</details>
-
-<div align="center">
-  <a href="https://github.com/thiagomonts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomonts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomonts&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img height="40" width="52" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img height="40" width="52" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -45,6 +37,13 @@ const monts = {
   <img height="40" width="52" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img height="40" width="52" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="40" width="52" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+</div>
+
+<br>
+<div align="center">
+  <a href="https://github.com/thiagomonts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagomonts&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomonts&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <br>
