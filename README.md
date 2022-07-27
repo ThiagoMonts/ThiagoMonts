@@ -16,7 +16,7 @@ const monts = {
         apelido: 'Monts',
         interesses: ['Games', 'Futebol', 'Aprendizado'],
         motivação: ['Quero aprender a desenvolver programas e jogos.'],
-    },
+              },
     profissional: {
         tecnologias: {
                 CSS,
@@ -25,9 +25,9 @@ const monts = {
                 JavaScript,
                 Python,
                 TypeScript
-    }
-}
-}
+                      }
+                  }
+              }
 ```
 
 </details>
