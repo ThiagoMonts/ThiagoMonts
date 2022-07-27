@@ -1,16 +1,12 @@
-# Olá! Meu nome é Thiago, seja bem-vindo!
+<h2> Olá! Meu nome é Thiago, seja bem-vindo!</h2>
 
 <div align="center">
   
 <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611906a5f2be17e869fcb806959838f1ebbf856767a&rid=giphy.gif&ct=g" />
 
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+<h2>Estudante de Análise e Desenvolvimento de Sistemas.</h2>
 
-<details>
-  <summary>Sobre mim</summary>
-<div align="left">
- 
 ``` js
 const monts = {
     pessoal: {
@@ -23,10 +19,12 @@ const monts = {
         tecnologias: {
                 CSS,
                 HTML,
+                Java,
                 JavaScript,
                 Python,
                 TypeScript
     }
+}
 }
 ```
   </div>
@@ -39,12 +37,12 @@ const monts = {
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
+  <img height="40" width="52" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img height="40" width="52" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img height="40" width="52" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img height="40" width="52" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img height="40" width="52" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img height="40" width="52" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </div>
 
 <br>
