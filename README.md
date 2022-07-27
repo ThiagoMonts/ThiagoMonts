@@ -6,6 +6,8 @@
 
 
 <h2>Estudante de Análise e Desenvolvimento de Sistemas.</h2>
+</div>
+
 
 ``` js
 const monts = {
@@ -27,7 +29,7 @@ const monts = {
 }
 }
 ```
-  </div>
+
 </details>
 
 <div align="center">
