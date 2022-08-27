@@ -5,7 +5,7 @@ Seja bem-vindo!</h1>
 
 - 🧑🏻‍💻 Estudante de **Análise e Desenvolvimento de Sistemas**.
 - 🌱 No momento, estou aprimorando minhas habilidades em **HTML5** e **CSS3**.
-- 👨🏻‍💻 Meus projetos podem ser encontrados aqui no **[GitHub](https://github.com/ThiagoMonts?tab=repositories)**.  
+- 📁 Meus projetos podem ser encontrados aqui no **[GitHub](https://github.com/ThiagoMonts?tab=repositories)**.  
 - 📚 Minhas tecnologias: **CSS**, **HTML**, **Java**, **JavaScript**, **Python** e **TypeScript**.
 - 🎮 Apaixonado por **Games**.
 
