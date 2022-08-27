@@ -1,6 +1,6 @@
-<h1> Olá! <img src="images\hello.gif" width="30px"> Meu nome é Thiago, seja bem-vindo!</h1>
+<img align="right" src="images\coding.gif" width="300px">
 
-<img src="images\coding.gif" width="300px">
+<h1 align="left"> Olá! <img src="images\hello.gif" width="30px"> Meu nome é Thiago, seja bem-vindo!</h1>
 
 - 🧑🏻‍💻 Estudante de **Análise e Desenvolvimento de Sistemas**.
 - 🌱 No momento, estou aprimorando minhas habilidades em **HTML5** e **CSS3**.
