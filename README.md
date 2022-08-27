@@ -1,4 +1,4 @@
-<img align="right" src="images\coding.gif" width="300px">
+<img align="right" src="images\coding.gif" width="320px">
 
 <h1 align="left"> Olá! <img src="images\hello.gif" width="30px"> Meu nome é Thiago.<br>
 Seja bem-vindo!</h1>
