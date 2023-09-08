@@ -1,12 +1,14 @@
-<img align="right" src="images\coding.gif" width="320px">
+<h2 align="left"> Olá! <img src="images\hello.gif" width="30px"></h2>
+<h1>Meu nome é Thiago.</h1>
+<h2>Seja bem-vindo!</h2>
 
-<h1 align="left"> Olá! <img src="images\hello.gif" width="30px"> Meu nome é Thiago.<br>
-Seja bem-vindo!</h1>
+<br>
 
-- 🧑🏻‍💻 Estudante de **Análise e Desenvolvimento de Sistemas**.
-- 🌱 No momento, estou aprimorando minhas habilidades em **HTML5**, **CSS3** e **JavaScript**.
+- 🧑🏻‍💻 Estudante de **Análise e Desenvolvimento de Sistemas** no **UNIESP Centro Universitário**, previsão de conclusão: **Dezembro 2023**.
+- 🌱 No momento, estou aprimorando minhas habilidades em **Robotic Process Automation (RPA)**.
+- 💼 Estagiário no estúdio de **Hyperautomation (RPA)** na **Compass UOL**.
 - 📁 Meus projetos podem ser encontrados aqui no **[GitHub](https://github.com/ThiagoMonts?tab=repositories)**.  
-- 📚 Minhas tecnologias: **CSS**, **HTML**, **Java**, **JavaScript**, **Python** e **TypeScript**.
+- 📚 Minhas tecnologias: **CSS**, **HTML**, **Java**, **JavaScript**, **MySQL**, **Python**, **React**, **React Native** e **TypeScript**.
 - 🎮 Apaixonado por **Games**.
 
 <br>
@@ -17,13 +19,17 @@ Seja bem-vindo!</h1>
 </div>
 
 <h2>⚙️ Tecnologias</h2>
-<div align="center" style="display: inline_block"><br>
-  <img height="40" width="52" alt="css3 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="40" width="52" alt="html5 logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="40" width="52" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img height="40" width="52" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="40" width="52" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img height="40" width="52" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<div align="center"><br>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
 </div>
 
 <br>
