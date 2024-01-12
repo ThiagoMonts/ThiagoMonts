@@ -4,9 +4,9 @@
 
 <br>
 
-- 🧑🏻‍💻 Estudante de **Análise e Desenvolvimento de Sistemas** no **UNIESP Centro Universitário**, previsão de conclusão: **Dezembro 2023**.
-- 💼 Sou **Desenvolvedor Trainee** em **Automação de Processos Robóticos (RPA)** no estúdio de **Hyperautomation (RPA)** na **Compass UOL**.
-- 🌱 No momento, estou aprimorando minhas habilidades em **Automação de Processos Robóticos (RPA)**.
+- 🧑🏻‍💻 Formado em **Análise e Desenvolvimento de Sistemas** no **UNIESP Centro Universitário**.
+- 💼 Sou **Desenvolvedor RPA Trainee** no estúdio de **Hyperautomation (RPA)** da **Compass UOL**.
+- 🌱 No momento, estou aprimorando minhas habilidades em **Python** e **BotCity**.
 - 📁 Meus projetos podem ser encontrados aqui no **[GitHub](https://github.com/ThiagoMonts?tab=repositories)**.  
 - 📚 Minhas tecnologias: **CSS**, **HTML**, **Java**, **JavaScript**, **MySQL**, **Python**, **React**, **React Native** e **TypeScript**.
 - 🎮 Apaixonado por **Games**.
