@@ -4,7 +4,7 @@
 
 <br>
 
-- 🧑🏻‍💻 Formado em **Análise e Desenvolvimento de Sistemas** no **UNIESP Centro Universitário**.
+- 🧑🏻‍💻 Formado em **Análise e Desenvolvimento de Sistemas** pelo **UNIESP Centro Universitário**.
 - 💼 Sou **Desenvolvedor RPA Trainee** no estúdio de **Hyperautomation (RPA)** da **Compass UOL**.
 - 🌱 No momento, estou aprimorando minhas habilidades em **Python** e **BotCity**.
 - 📁 Meus projetos podem ser encontrados aqui no **[GitHub](https://github.com/ThiagoMonts?tab=repositories)**.  
